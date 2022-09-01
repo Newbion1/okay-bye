@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				26,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left_pose"
+		},
+		{
+			"offsets": [
+				68,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up_pose"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right_pose"
+		},
+		{
+			"offsets": [
+				20,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down_pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gabriel",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "g",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		116,
+		147
+	],
+	"camera_position": [
+		-185,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
